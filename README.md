@@ -36,7 +36,7 @@ I'm Aman Gupta, a **Full-Stack Developer** with a strong foundation in Python, f
 ## 🛠️ Skills
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
 </p>
 
 ## 🚀 Projects
