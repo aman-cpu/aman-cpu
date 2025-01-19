@@ -53,8 +53,11 @@ I'm Aman Gupta, a **Full-Stack Developer** with a strong foundation in Python, f
   <a href="https://github.com/aman-cpu/Melodi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=Melodi&theme=radical" />
   </a>
-  <a href="https://github.com/aman-cpu/microservices-performance-testing-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=microservices-performance-testing-platform&theme=radical" />
+  <a href="https://github.com/aman-cpu/Image-Recognition-system-using-OpenCV-with-PythonGUI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=Image-Recognition-system-using-OpenCV-with-PythonGUI&theme=radical" />
+  </a>
+  <a href="https://github.com/aman-cpu/Basic-Banking-System-The-sparks-foundation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=Basic-Banking-System-The-sparks-foundation&theme=radical" />
   </a>
 </div>
 
