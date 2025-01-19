@@ -7,14 +7,17 @@
 </h1>
 
 <p align="center">
-<a href="https://aman-cpu.github.io/Aman-Gupta-Portfolio/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
 <a href="https://www.linkedin.com/in/aman-gupta-158881189/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+  <img src="https://skillicons.dev/icons?i=linkedin">
+</a>
+<a href="https://github.com/aman-cpu/aman-cpu/">
+  <img src="https://skillicons.dev/icons?i=github">
+</a>
+<a href="https://www.instagram.com/aman._.gupta22/">
+  <img src="https://skillicons.dev/icons?i=instagram">
 </a>
 <a href="mailto:amanguptaag.00@gmail.com">
-  <img height="50" src="https://icons8.com/icon/qyRpAggnV0zH/gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
@@ -37,7 +40,7 @@ I'm Aman Gupta, a **Full-Stack Developer** with a strong foundation in Python, f
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,angular,docker,git,kubernetes,c,cpp,java,ts,js,nodejs,html,css,sass,github,githubactions,vscode,postgres,mysql,mongodb,postman,powershell,opencv,windows,linux,ubuntu,tailwind,redis,nginx,grafana,ai,anaconda,aws,bash,npm.selenium,redhat" />
+    <img src="https://skillicons.dev/icons?i=python,django,angular,docker,git,kubernetes,c,cpp,java,ts,js,nodejs,html,css,sass,githubactions,vscode,postgres,mysql,mongodb,postman,powershell,opencv,windows,linux,ubuntu,tailwind,redis,nginx,grafana,ai,anaconda,aws,bash,npm,selenium,redhat" />
   </a>
 </p>
 
