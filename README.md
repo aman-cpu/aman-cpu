@@ -1,27 +1,23 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Aman+Gupta;Full 
-Stack+Developer;AI+Agent+Developer;Tech+Enthusiast&center=true&width=600&height=50&font=Fira%20Code&color=F77D00&vCenter=true&pause=1000">
-</div>
-
-
 <p align="center">
-  <a href="https://aman-cpu.github.io/Aman-Gupta-Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=google-chrome">
-  </a>
-  <a href="https://linkedin.com/in/aman-gupta-158881189">
-    <img src="https://img.shields.io/badge/LinkedIn-AmanGupta-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="https://github.com/aman-cpu">
-    <img src="https://img.shields.io/badge/GitHub-aman--cpu-blue?style=flat-square&logo=github">
-  </a>
-  <a href="mailto:amanguptaag.00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi,%20Folks!&height=100&section=header"/>
 </p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman-cpu&color=blueviolet&style=flat-square">
+<a href="https://aman-cpu.github.io/Aman-Gupta-Portfolio/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/aman-gupta-158881189/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="mailto:amanguptaag.00@gmail.com">
+  <img height="50" src="https://icons8.com/icon/qyRpAggnV0zH/gmail"/>
+</a>
 </p>
+
 
 ---
 
