@@ -50,8 +50,8 @@ I'm Aman Gupta, a **Full-Stack Developer** with a strong foundation in Python, f
 ## 🚀 Projects
 
 <div align="center">
-  <a href="https://github.com/aman-cpu/generative-ai-testing-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=generative-ai-testing-platform&theme=radical" />
+  <a href="https://github.com/aman-cpu/Melodi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=Melodi&theme=radical" />
   </a>
   <a href="https://github.com/aman-cpu/microservices-performance-testing-platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=aman-cpu&repo=microservices-performance-testing-platform&theme=radical" />
