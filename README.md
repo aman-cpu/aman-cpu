@@ -37,7 +37,7 @@ I'm Aman Gupta, a **Full-Stack Developer** with a strong foundation in Python, f
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,angular,docker,git,kubernetes,c,cpp,java,ts,js,html,css,github,githubactions,vscode,postgres,mysql,mongodb,postman,powershell,opencv,windows,linux,ubuntu,tailwind,redis,nginx,gunicorn" />
+    <img src="https://skillicons.dev/icons?i=python,django,angular,docker,git,kubernetes,c,cpp,java,ts,js,nodejs,html,css,sass,github,githubactions,vscode,postgres,mysql,mongodb,postman,powershell,opencv,windows,linux,ubuntu,tailwind,redis,nginx,grafana,ai,anaconda,aws,bash,npm.selenium,redhat" />
   </a>
 </p>
 
