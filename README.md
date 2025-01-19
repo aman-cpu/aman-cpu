@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Aman+Gupta;Full 
- Stack+Developer;AI+Agent+Developer;Tech+Enthusiast&center=true&width=600&height=50&font=Fira%20Code&color=F77D00&vCenter=true&pause=1000">
+Stack+Developer;AI+Agent+Developer;Tech+Enthusiast&center=true&width=600&height=50&font=Fira%20Code&color=F77D00&vCenter=true&pause=1000">
 </div>
 
 
