@@ -19,6 +19,9 @@
 <a href="mailto:amanguptaag.00@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+<a href="https://aman-cpu.github.io/Aman-Gupta-Portfolio/">
+  <img src="https://img.icons8.com/fluent/48/000000/domain.png"/>
+</a>
 </p>
 
 
@@ -79,19 +82,6 @@ I'm Aman Gupta, a **Full-Stack Developer** with a strong foundation in Python, f
 - 📜 **Python & SQL (Basic) - HackerRank**
 - 📜 **BEC Certification - Cambridge University**
 
-## 📫 How to reach me
-
-<p align="center">
-  <a href="https://linkedin.com/in/aman-gupta-158881189">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="mailto:amanguptaag.00@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-  </a>
-  <a href="https://aman-cpu.github.io/Aman-Gupta-Portfolio/">
-    <img src="https://img.icons8.com/fluent/48/000000/domain.png"/>
-  </a>
-</p>
 
 ---
 
